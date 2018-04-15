@@ -7,4 +7,3 @@ artifacts:
   type: zip
   files:
     - samTemplate.yaml
-    - outputSamTemplate.yaml
