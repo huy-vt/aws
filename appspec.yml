@@ -1,9 +1,0 @@
-version: 0.0
-Resources:
-    - mylambdafunction:
-        Type: AWS::Lambda::Function
-        Properties:
-            Name: "mylambdafunction"
-            Alias: "staging"
-            CurrentVersion: "2"
-            TargetVersion: "3"
